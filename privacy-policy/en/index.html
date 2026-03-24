@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy – Lupine Connect</title>
+  </head>
+  <body>
+    <p><a href="../../">← Back</a> | <a href="../de/">Deutsch</a></p>
+    <div id="content">Loading…</div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+      fetch("../../assets/privacy-policy.en.md")
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Failed to load privacy policy.");
+          }
+          return response.text();
+        })
+        .then(function (text) {
+          document.getElementById("content").innerHTML = marked.parse(text);
+        })
+        .catch(function (error) {
+          document.getElementById("content").textContent = error.message;
+        });
+    </script>
+  </body>
+</html>
