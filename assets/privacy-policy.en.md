@@ -2,7 +2,7 @@
 
 **State as of June 12, 2025**
 
-This Privacy Notice for Lupine Lighting Systems GmbH ('**we**', '**us**', or '**our**'), describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ('**Services**'), including when you:
+This Privacy Notice for Lupine lighting systems GmbH ('**we**', '**us**', or '**our**'), describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ('**Services**'), including when you:
 
 - Download and use our mobile application (Lupine Connect), or any other application of ours that links to this Privacy Notice
 
@@ -11,7 +11,7 @@ Reading this Privacy Notice will help you understand your privacy rights and cho
 
 ## CONTROLLER
 
-Lupine Lighting Systems GmbH  
+Lupine lighting systems GmbH  
 Im Zwiesel 9  
 92318 Neumarkt  
 Germany
@@ -330,7 +330,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at [info@lupinelights.com](mailto:info@lupinelights.com) or contact us by post at:
 
-**Lupine Lighting Systems GmbH**  
+**Lupine lighting systems GmbH**  
 Im Zwiesel 9  
 92318 Neumarkt  
 Germany

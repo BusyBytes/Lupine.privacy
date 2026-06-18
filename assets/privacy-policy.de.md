@@ -2,7 +2,7 @@
 
 **Stand vom 12. Juni 2025**
 
-Diese Datenschutzerklärung für die Lupine Lighting Systems GmbH (nachfolgend auch **„wir“**, **„uns“** oder **„unser“** genannt) beschreibt, wie und warum wir möglicherweise Ihre persönlichen Daten erfassen, speichern, verwenden und/oder weitergeben („verarbeiten“), wenn Sie unsere Dienste (**„Dienste“**) nutzen, einschließlich, wenn Sie:
+Diese Datenschutzerklärung für die Lupine lighting systems GmbH (nachfolgend auch **„wir“**, **„uns“** oder **„unser“** genannt) beschreibt, wie und warum wir möglicherweise Ihre persönlichen Daten erfassen, speichern, verwenden und/oder weitergeben („verarbeiten“), wenn Sie unsere Dienste (**„Dienste“**) nutzen, einschließlich, wenn Sie:
 
 - Unsere mobile App (Lupine Connect) oder eine andere Anwendung von uns herunterladen und nutzen, die mit dieser Datenschutzerklärung verknüpft ist.
 
@@ -11,7 +11,7 @@ Diese Datenschutzerklärung hilft Ihnen, Ihre Datenschutzrechte und \-optionen z
 
 ## VERANTWORTLICHER
 
-Lupine Lighting Systems GmbH  
+Lupine lighting systems GmbH  
 Im Zwiesel 9  
 Neumarkt 92318  
 Deutschland
@@ -349,7 +349,7 @@ Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig zu lesen, um sich 
 
 Wenn Sie Fragen oder Anmerkungen zu dieser Datenschutzerklärung haben, können Sie uns per E-Mail an [**info@lupinelights.com**](mailto:info@lupinelights.com) oder postalisch unter folgender Adresse kontaktieren:
 
-**Lupine Lighting Systems GmbH**  
+**Lupine lighting systems GmbH**  
 Im Zwiesel 9  
 92318 Neumarkt  
 Deutschland
